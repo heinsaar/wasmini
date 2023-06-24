@@ -1,0 +1,9 @@
+{
+  "extends": [ "airbnb-base", "plugin:prettier/recommended" ],
+  "plugins": [ "prettier" ],
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module"
+  },
+  "ignoreWhitespace": true
+}
